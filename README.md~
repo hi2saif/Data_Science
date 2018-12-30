@@ -27,7 +27,7 @@ Textblob not working properly in progress
 Two types of recommendation System
 1)Collabrative =  recommend on what other have liked
 2) Content-based = recommen on what u have liked
-*Dependencies : numpy scipy(python libraries for math) and lightm(helps Helps to perform various recommendation algorithm)
+*Dependencies : numpy scipy and lightm
 		*pip install ____
 
 
