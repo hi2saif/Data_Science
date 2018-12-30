@@ -30,5 +30,8 @@ Two types of recommendation System
 *Dependencies : numpy scipy(python libraries for math) and lightm(helps Helps to perform various recommendation algorithm)
 		*pip install ____
 
+#Predicting stock Prices
+Work in progress
+
 
  
